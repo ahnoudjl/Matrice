@@ -1,0 +1,7 @@
+A noter qu'il faut rentrer la fonction chdir(RepertoireTravail) pour faire fonction exec()
+ex: chdir("C:\Users\timot\Documents\Ecole\L2\MInfo402\tp1")
+Fichier Rapport_AHNOUDJ_KRUK: Notre rapport
+Fichier Fonctions.sci: Pour l'ensemble des fonctions que l'on a crée et utilisée
+Fichier ex4.sce : Pour l'exercice 4, question 1
+Fichier ex4b.sce : Pour l'exerice 4, question 2
+Fichier ex5.sce : Pour l'exercice 5, question 1 et 2
